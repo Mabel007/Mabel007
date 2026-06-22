@@ -23,9 +23,9 @@ Currently:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mabel007&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mabel007\&show_icons=true\&count_private=true\&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabel007&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabel007\&layout=compact\&count_private=true)
 
 ## Featured Projects
 
