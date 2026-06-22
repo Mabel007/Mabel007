@@ -12,48 +12,93 @@ Currently:
 
 ## Tech Stack
 
-React • TypeScript • Vue.js • JavaScript • HTML5 • CSS3 • Tailwind CSS • Vite • Git • GitHub • React Router • TanStack Query • Convex
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Convex](https://img.shields.io/badge/Convex-000000?style=for-the-badge)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mabel007&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabel007&layout=compact)
 
 ## Featured Projects
 
-### Scissor URL Shortener
+### 🚀 Scissor URL Shortener
 
-Modern URL shortening platform featuring authentication, analytics, QR code generation, custom slugs, and real-time updates.
+Modern URL shortening platform built with React, TypeScript, Convex, Clerk Authentication and Recharts.
 
-Live Demo:
+**Features**
+- Authentication
+- Analytics Dashboard
+- QR Code Generation
+- Custom Slugs
+- Link Expiration
+- Real-time Updates
+
+🔗 Live Demo:
 https://scissor-virid.vercel.app/
 
-Repository:
+📂 Repository:
 https://github.com/Mabel007/scissor
 
-### Todo Application
+### ✅ React Todo Application
 
-React application featuring CRUD operations, pagination, filtering, nested routing, and modern frontend architecture.
+Task management application showcasing modern React architecture.
 
-Live Demo:
+**Features**
+- CRUD Operations
+- Search & Filtering
+- Pagination
+- Inline Editing
+- TanStack Query
+- Responsive Design
+
+🔗 Live Demo:
 https://mabel-todo-app.netlify.app/
 
-### Vue Blog Application
+### 📝 Vue Blog Application
 
-Responsive blog platform built with Vue 3 and TypeScript.
+Vue 3 + TypeScript application featuring:
 
-Live Demo:
+- Dynamic Blog Rendering
+- Vue Router Navigation
+- API Integration
+- Reusable Components
+- Responsive Layouts
+
+🔗 Live Demo:
 https://mabel-vue-blog-app.netlify.app/
 
-### Vue Todo Application
+### 🛍️ Gabisi Luxe (In Progress)
 
-Feature-rich Vue application with pagination, lazy loading, and scalable state management.
+Luxury fashion accessories e-commerce frontend built with:
 
-Live Demo:
-https://mabel-vue-todo-app.netlify.app/
+- React
+- TypeScript
+- Tailwind CSS
+- Playwright
+- CI/CD Workflows
+
+Focused on modern frontend engineering, testing, documentation, and responsive design.
 
 ## Connect With Me
 
-LinkedIn:
+## Connect With Me
+
+💼 LinkedIn
 https://www.linkedin.com/in/christianamabelnyuma/
 
-GitHub:
+💻 GitHub
 https://github.com/Mabel007
+
+📧 Email
+christiana.nyuma7@gmail.com
 
 
 <!--
