@@ -75,17 +75,6 @@ Vue 3 + TypeScript application featuring:
 🔗 Live Demo:
 https://mabel-vue-blog-app.netlify.app/
 
-### 🛍️ Gabisi Luxe (In Progress)
-
-Luxury fashion accessories e-commerce frontend built with:
-
-- React
-- TypeScript
-- Tailwind CSS
-- Playwright
-- CI/CD Workflows
-
-Focused on modern frontend engineering, testing, documentation, and responsive design.
 
 ## Connect With Me
 
