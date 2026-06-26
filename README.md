@@ -89,8 +89,6 @@ Focused on modern frontend engineering, testing, documentation, and responsive d
 
 ## Connect With Me
 
-## Connect With Me
-
 💼 LinkedIn
 https://www.linkedin.com/in/christianamabelnyuma/
 
