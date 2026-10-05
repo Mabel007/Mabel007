@@ -1,61 +1,111 @@
 # Hi, I'm Christiana Mabel Nyuma 👋
 
-**Frontend Developer & QA Analyst based in Sierra Leone.**
+**Frontend Developer & QA Analyst based in Sierra Leone 🇸🇱**
 
-I build responsive, user-focused web applications using **React, TypeScript, Vue.js, JavaScript, and Tailwind CSS**, with a strong focus on usability, maintainability, and software quality.
+I build responsive, user-focused software using React, TypeScript, Vue.js, JavaScript, and modern frontend technologies, with a strong focus on usability, maintainability, and software quality.
 
-Alongside frontend development, I work across **functional testing, API testing, payments, authentication, QA processes, and test automation**, bringing both a builder's and a quality-focused perspective to the products I work on.
+Alongside frontend development, I work professionally in Quality Assurance across functional testing, API testing, payments, authentication, QA processes, and test automation.
 
-## Currently
+This combination gives me both a **builder's perspective** and a **quality-focused perspective** on the products I work on.
 
-- 💼 Working as a **QA Analyst II at BnB Technologies**
+## 👩🏽‍💻 Currently
+
+- 💼 Working as a **QA Analyst II**
 - 🎓 Graduate of **AltSchool Africa's Frontend Engineering program**
-- 🛍️ Building and refining modern ecommerce applications
-- 🧪 Expanding my practical experience in **test automation and software quality**
+- 🛍️ Building and refining modern ecommerce applications across web and mobile
+- 📱 Expanding into mobile development with **React Native and Expo**
+- 🧪 Growing my practical experience in test automation and software quality engineering
 - 🤖 Using AI-assisted development as part of my engineering workflow while continuing to strengthen my core technical skills
-
----
 
 ## 🛠️ Tech & Tools
 
-### Frontend
+### Frontend & Mobile
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+React • TypeScript • Vue.js • JavaScript • React Native • Expo • Tailwind CSS • Vite
 
 ### Backend & Data
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+Supabase • PostgreSQL • Laravel
 
 ### QA & Testing
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+Postman • Playwright • Functional Testing • API Testing
 
 ### Development & Delivery
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+Git • GitHub • Vercel • Expo EAS
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### ✨ Gabisi Luxe
+## 🏠 Lumé House
 
-A modern ecommerce application focused on delivering a polished end-to-end online shopping experience.
+A modern home and lifestyle ecommerce platform being developed for the Sierra Leone market across **web and mobile**.
 
-Built with **React 19, TypeScript, Vite, React Router, Tailwind CSS, and ShadCN UI**.
+Lumé House began as a development challenge and is now being expanded into a portfolio-quality ecommerce product with a real backend, authentication, transactional services, production infrastructure, and a companion mobile application.
 
-The project covers the customer journey from product discovery through checkout and post-payment experiences.
+### 🌐 Lumé House Web
 
-**Key areas include:**
+Built with:
+
+**React 19 • TypeScript • Vite • React Router • Tailwind CSS • Supabase • Vercel**
+
+Key areas include:
+
+- Responsive ecommerce storefront
+- Product browsing and filtering
+- Product detail experiences
+- Shopping cart
+- Guest cart support
+- Persistent authenticated carts
+- Supabase PostgreSQL backend
+- Supabase Authentication
+- Google OAuth
+- Row Level Security
+- Transactional email
+- Freetown delivery and Lumley pickup flows
+- Production deployment
+
+🔗 **Live:** https://lume-house-delta.vercel.app/
+
+📂 **Repository:** https://github.com/Mabel007/lume-house
+
+### 📱 Lumé House Mobile
+
+A companion mobile ecommerce application is currently being developed using **React Native and Expo**.
+
+The mobile application is designed to work with the same Lumé House product data and backend infrastructure used by the web application.
+
+Current engineering areas include:
+
+- React Native
+- Expo
+- Expo Router
+- Android development
+- EAS project and build configuration
+- Shared Supabase backend
+- Supabase Authentication
+- Google OAuth integration
+- Native authentication flows
+- Mobile ecommerce experiences
+- Web/mobile backend reuse
+
+**Status:** 🚧 Active Development
+
+---
+
+## ✨ Gabisi Luxe
+
+A modern ecommerce frontend focused on delivering a polished end-to-end online shopping experience.
+
+Built with:
+
+**React 19 • TypeScript • Vite • React Router • Tailwind CSS • ShadCN UI**
+
+The project explores the customer journey from product discovery through checkout and post-payment experiences.
+
+Key areas include:
 
 - Product browsing and product details
 - Shopping cart experience
@@ -69,51 +119,19 @@ The project covers the customer journey from product discovery through checkout 
 - Responsive user interfaces
 - Reusable frontend architecture
 
-The project is being developed incrementally through structured releases and engineering epics, with upcoming work covering state management, backend integration, payment architecture, and automated testing.
+The application has been developed incrementally through structured releases and engineering epics.
 
 **Status:** 🚧 Active Development
 
 ---
 
-### 🏠 Lumé House
+## ✂️ Scissor URL Shortener
 
-A modern home and lifestyle ecommerce platform built for the Sierra Leone market.
+A URL shortening platform built with:
 
-Lumé House started as a development challenge and is now being expanded into a portfolio-quality ecommerce product with a real backend and production infrastructure.
+**React • TypeScript • Convex • Clerk Authentication • Recharts**
 
-Built with **React 19, TypeScript, Vite, React Router, Tailwind CSS, Supabase, and Vercel**.
-
-**Key features include:**
-
-- Responsive ecommerce storefront
-- Product browsing and filtering
-- Product detail experiences
-- Shopping cart
-- Persistent authenticated carts
-- Guest cart support
-- Supabase PostgreSQL backend
-- Supabase authentication
-- Google OAuth
-- Row Level Security
-- Transactional email
-- Freetown delivery and Lumley pickup flows
-- Production deployment
-
-A separate **Expo mobile application** is also being developed alongside the web application, using the same product data and backend infrastructure.
-
-**Status:** 🚧 Active Development
-
-🔗 **Live:** https://lume-house-delta.vercel.app
-
-📂 **Repository:** https://github.com/Mabel007/lume-house
-
----
-
-### ✂️ Scissor URL Shortener
-
-A modern URL shortening platform built with **React, TypeScript, Convex, Clerk Authentication, and Recharts**.
-
-**Features:**
+Features include:
 
 - Authentication
 - URL shortening
@@ -129,13 +147,15 @@ A modern URL shortening platform built with **React, TypeScript, Convex, Clerk A
 
 ---
 
-### ✅ React Todo Application
+## ✅ React Todo Application
 
 A task management application used to explore and apply modern React architecture and frontend engineering practices.
 
-Built with **React 19, TypeScript, Vite, Tailwind CSS, ShadCN UI, and TanStack Query**.
+Built with:
 
-**Key areas include:**
+**React 19 • TypeScript • Vite • Tailwind CSS • ShadCN UI • TanStack Query**
+
+Key areas include:
 
 - Task CRUD operations
 - Search and filtering
@@ -148,7 +168,7 @@ Built with **React 19, TypeScript, Vite, Tailwind CSS, ShadCN UI, and TanStack Q
 - Responsive UI
 - Incremental feature development through structured engineering epics
 
-The project also serves as a practical learning environment for strengthening React and TypeScript concepts and introducing automated testing progressively.
+The project also serves as a practical learning environment for strengthening React and TypeScript concepts and progressively introducing automated testing.
 
 **Status:** 🚧 Active Development
 
@@ -156,11 +176,11 @@ The project also serves as a practical learning environment for strengthening Re
 
 ---
 
-### 📝 Vue Blog Application
+## 📝 Vue Blog Application
 
 A responsive blog application built with **Vue 3 and TypeScript**.
 
-**Features:**
+Key areas include:
 
 - Dynamic blog rendering
 - Vue Router navigation
@@ -172,40 +192,39 @@ A responsive blog application built with **Vue 3 and TypeScript**.
 
 ---
 
-## 📊 GitHub Stats
-
-![Christiana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mabel007&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mabel007&layout=compact)
-
----
-
-## 🌱 What I'm Growing Into
+# 🌱 What I'm Growing Into
 
 I'm continuing to deepen my skills across:
 
 - Advanced React and TypeScript
 - Frontend architecture and state management
+- React Native and mobile development
 - API integration
 - Supabase and backend fundamentals
-- Software testing and QA engineering
+- Software testing and Quality Engineering
 - Playwright test automation
 - Ecommerce and payment flows
 - AI-assisted software development
 
-My goal is to build software that doesn't just work, but is thoughtfully designed, tested, and reliable.
+My goal is to build software that doesn't just work, but is **thoughtfully designed, tested, and reliable**.
 
 ---
 
-## 🧭 Naj Builds
+# 🧭 Naj Builds
 
-**Build → Validate → Ship**
+### Build • Validate • Ship
 
-**Naj Builds** is my developer identity for the products, experiments, technical learning, and engineering work I build and document.
+**Naj Builds** is my developer identity for the products, experiments, technical learning, QA work, and engineering experiences I build and document.
+
+It represents how I approach software from both sides of the development lifecycle:
+
+**Build** useful products.  
+**Validate** their quality.  
+**Ship** reliable experiences.
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 💼 **LinkedIn:** https://www.linkedin.com/in/christianamabelnyuma/
 
