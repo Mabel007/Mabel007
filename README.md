@@ -11,6 +11,7 @@ This combination gives me both a **builder's perspective** and a **quality-focus
 ## 👩🏽‍💻 Currently
 
 - 💼 Working as a **QA Analyst II**
+- 🌱 Co-Founder of **Sprout Labs**, contributing across software development, product development, and QA
 - 🎓 Graduate of **AltSchool Africa's Frontend Engineering program**
 - 🛍️ Building and refining modern ecommerce applications across web and mobile
 - 📱 Expanding into mobile development with **React Native and Expo**
@@ -21,19 +22,76 @@ This combination gives me both a **builder's perspective** and a **quality-focus
 
 ### Frontend & Mobile
 
-React • TypeScript • Vue.js • JavaScript • React Native • Expo • Tailwind CSS • Vite
+React • TypeScript • Vue.js • JavaScript • React Native • Expo • Tailwind CSS • Bootstrap • Vite
 
 ### Backend & Data
 
-Supabase • PostgreSQL • Laravel
+Laravel • Supabase • PostgreSQL • MySQL
 
 ### QA & Testing
 
-Postman • Playwright • Functional Testing • API Testing
+Postman • Playwright • PHPUnit • Functional Testing • API Testing
 
 ### Development & Delivery
 
-Git • GitHub • Vercel • Expo EAS
+Git • GitHub • Vercel • Expo EAS • Docker
+
+---
+
+# 💼 Product & Engineering Experience
+
+## 🌱 Sprout Labs
+
+**Co-Founder • Software Development • Quality Assurance**
+
+Sprout Labs is a multi-product software ecosystem that I co-founded and have contributed to across product development, frontend and backend engineering, API integration, debugging, and software quality.
+
+My engineering contributions span multiple products and services within the ecosystem, including **Sprout Web, Business, Ticket, Booking, and Market**.
+
+### Frontend Engineering
+
+Contributed to the Vue-based Sprout web application, including:
+
+- Responsive landing-page experiences
+- Reusable interface sections
+- Ticket, Booking, and Market product-card experiences
+- Responsive layouts and shared styling
+- Navigation and presentation improvements
+
+**Frontend technologies:** Vue 3 • JavaScript • Pinia • Vue Router • Axios • Bootstrap • Vite
+
+### Backend & API Engineering
+
+Contributed Laravel implementation across several Sprout services, including:
+
+- REST API routes and controllers
+- Cross-service API integrations
+- Business API facade functionality
+- Request validation and response handling
+- Database models and migrations
+- Vendor and booking-related workflows
+- Violation and violation-charge workflows
+- Ticket purchase and payment-related APIs
+- Ticket status and transaction workflows
+
+One significant implementation involved **ticket availability and inventory management**, including quantity validation, over-purchase protection, transactional consistency, failure restoration, idempotent status handling, database changes, and focused automated tests.
+
+### Quality Assurance & Engineering
+
+My QA and engineering work within Sprout has also included:
+
+- Functional and API testing
+- Positive, negative, and boundary scenario design
+- Regression planning
+- Payment and failure-flow validation
+- Authentication and OAuth/Passport investigation
+- Cross-service debugging
+- API timeout investigation
+- Database and environment troubleshooting
+- Docker-based local environment investigation
+- Laravel feature testing
+
+This work gives me practical experience working across the lifecycle of a multi-service product rather than only within an isolated frontend application.
 
 ---
 
@@ -73,9 +131,9 @@ Key areas include:
 
 ### 📱 Lumé House Mobile
 
-A companion mobile ecommerce application is currently being developed using **React Native and Expo**.
+A companion mobile ecommerce application currently being developed using **React Native and Expo**.
 
-The mobile application is designed to work with the same Lumé House product data and backend infrastructure used by the web application.
+The mobile application shares product data and backend infrastructure with the Lumé House web application.
 
 Current engineering areas include:
 
@@ -103,8 +161,6 @@ Built with:
 
 **React 19 • TypeScript • Vite • React Router • Tailwind CSS • ShadCN UI**
 
-The project explores the customer journey from product discovery through checkout and post-payment experiences.
-
 Key areas include:
 
 - Product browsing and product details
@@ -113,8 +169,7 @@ Key areas include:
 - Checkout
 - Mobile Money and card payment experiences
 - Loading and transaction states
-- Order success
-- Order details
+- Order success and order details
 - Payment failure handling
 - Responsive user interfaces
 - Reusable frontend architecture
@@ -149,7 +204,7 @@ Features include:
 
 ## ✅ React Todo Application
 
-A task management application used to explore and apply modern React architecture and frontend engineering practices.
+A task management application I use to explore and apply modern React architecture and frontend engineering practices.
 
 Built with:
 
@@ -199,8 +254,7 @@ I'm continuing to deepen my skills across:
 - Advanced React and TypeScript
 - Frontend architecture and state management
 - React Native and mobile development
-- API integration
-- Supabase and backend fundamentals
+- API integration and backend fundamentals
 - Software testing and Quality Engineering
 - Playwright test automation
 - Ecommerce and payment flows
