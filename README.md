@@ -268,20 +268,42 @@ My goal is to build software that doesn't just work, but is **thoughtfully desig
 
 ### Build • Validate • Ship
 
-**Naj Builds** is my developer identity for the products, experiments, technical learning, QA work, and engineering experiences I build and document.
+**Naj Builds** is my personal engineering and technical writing brand, where I document the products I build, the problems I solve, the lessons I learn, and the quality engineering practices I apply.
 
-It represents how I approach software from both sides of the development lifecycle:
+It represents how I approach software from both sides of the development lifecycle: **Frontend Engineering and Quality Assurance**.
 
 **Build** useful products.  
 **Validate** their quality.  
 **Ship** reliable experiences.
 
+🌐 **Official Website:** https://najbuilds.com/
+
+My website is now live! The full portfolio, engineering case studies, and additional project showcases are still in development.
+
+Through Naj Builds, I share practical engineering stories, technical tutorials, QA experiences, and lessons from building real-world applications.
+
+📝 **Technical Writing:** https://najbuilds.hashnode.dev/
+
+📚 **DEV Community:** https://dev.to/najbuilds
+
 ---
 
 # 🤝 Connect With Me
+
+🌐 **Website / Portfolio:** https://najbuilds.com/
 
 💼 **LinkedIn:** https://www.linkedin.com/in/christianamabelnyuma/
 
 💻 **GitHub:** https://github.com/Mabel007
 
+✍️ **Hashnode:** https://najbuilds.hashnode.dev/
+
+📚 **DEV Community:** https://dev.to/najbuilds
+
+𝕏 **X (Twitter):** https://x.com/najbuilds
+
 📧 **Email:** contact@najbuilds.com
+
+---
+
+**BUILD • VALIDATE • SHIP.**
